@@ -1,2 +1,6 @@
 "this is D10B" 
+<<<<<<< HEAD
 "this is the second change 
+=======
+change
+>>>>>>> d62f82fd2ee94fa0c6b4b358e8bb9bc35b943cbf
